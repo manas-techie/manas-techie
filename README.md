@@ -61,8 +61,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-🔥 *"Simplicity is the soul of efficiency."* – Austin Freeman
-
 ---
 
 ### 🚀 Keep Coding, Keep Growing! 💙
