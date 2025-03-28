@@ -58,7 +58,46 @@
 
 
 🚀 Languages & Tools
-<p align="center"> <a href="https://developer.android.com/studio" target="_blank"> <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="50" /> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" width="50" /> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" title="Java" width="50" /> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" /> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" /> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=c" title="C" width="50" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" /> </a> <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="50" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" /> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="50" /> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" /> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="50" /> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" title="Arduino" width="50" /> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" /> </a> </p>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" title="C" width="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" width="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="50" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" title="SQL" width="50" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" width="50" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" />
+  </a>
+</p>
+
+
 
 ---
 
