@@ -41,7 +41,6 @@
 
 🧠 **Machine Learning Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" width="50" />
 </p>
