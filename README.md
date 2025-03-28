@@ -8,14 +8,14 @@
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manas-techie&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manas-techie&show_icons=true&theme=radical&hide_border=true" width="48%" /> &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manas-techie&theme=radical&hide_border=true" width="48%" />
 </p>
 
 📊 **Top Languages & Contribution Insights**
 <div align="center">
   <a href="https://github.com/manas-techie">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-techie&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-techie&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" /> <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=manas-techie&bg_color=000000&color=f1c40f&line=ff5733&point=ffffff&area=true&hide_border=true&theme=high-contrast" width="90%" />
   </a>
 </div>
