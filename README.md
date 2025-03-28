@@ -1,7 +1,7 @@
 ### <h1 align="center">👋 Hey, I'm <span style="color:#00ccff">MANAS</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&color=00ccff&center=true&vCenter=true&width=600&height=50&lines=🚀+Web+Developer;🤖+AI+%26+ML+Enthusiast;💡+Tech+Innovator;🔥+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=500&color=00ccff&center=true&vCenter=true&width=600&height=50&lines=🚀+Web+Developer;🤖+AI+%26+ML+Enthusiast;" />
 </p>
 
 ---
